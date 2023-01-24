@@ -1,0 +1,13 @@
+# This file contains values from Cookiecutter
+
+default_context:
+  project_name: "equibase-scraper"
+  project_description: "Scrapes data from Equibase and collects it into pandas DataFrames"
+  organization: "equibase-scraper"
+  license: "GNU GPL v3.0"
+  minimal_python_version: 3.7
+  github_name: "equibase_scraper"
+  email: "kmtarrant13@gmail.com"
+  version: "0.1.0"
+  line_length: "88"
+  create_example_template: "none"
