@@ -492,7 +492,7 @@ _pkginfo.txt
 ClientBin/
 ~$*
 *~
-*.dbmdl
+*.dimdl
 *.dbproj.schemaview
 *.jfm
 *.pfx
@@ -615,3 +615,6 @@ healthchecksdb
 MigrationBackup/
 
 # End of https://www.gitignore.io/api/osx,python,pycharm,windows,visualstudio,visualstudiocode
+
+# virtual environment
+Venv/
